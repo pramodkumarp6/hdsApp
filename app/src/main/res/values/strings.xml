@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">hdsApp</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="title_activity_for_get_user">ForGetUserActivity</string>
+    <string name="title_activity_otp">OtpVerifyActivity</string>
+    <string name="title_activity_update_password">UpdatePassword</string>
+    <string name="title_activity_password_complate">PasswordComplate</string>
+</resources>
